@@ -8,6 +8,6 @@ This branch contains the published presentation. The PDF is stored with Git LFS.
 
 Slide sources, image assets, and build instructions are on the [part1 branch](https://github.com/Tech-JI/vibecoding-wksp-26fa/tree/part1).
 
-Published from source commit [`a4904ca`](https://github.com/Tech-JI/vibecoding-wksp-26fa/commit/a4904ca).
+Published from source commit [`91db9e4`](https://github.com/Tech-JI/vibecoding-wksp-26fa/commit/91db9e4).
 
-The current deck includes a Hands-on Practice section heading; the exercises are still to be added.
+Hands-on exercises belong in a separate worksheet.
